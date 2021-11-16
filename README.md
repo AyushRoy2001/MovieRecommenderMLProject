@@ -1,11 +1,9 @@
 # **IPL-Win-Predictor-ML-Project**
 IPL Win Predictor Model Using ML and its deployment
 ## *1. Output*
-Vid
+Video of webpage where the model is deployed
 
 https://user-images.githubusercontent.com/94052139/142055101-50c942b2-38fc-4622-9193-37b815b1e5a5.mp4
-
-eo of webpage where the model is deployed
 
 ## *2. Description*
   -> I created an ML model for suggesting 5 movies according to the input movie.<br/> 
