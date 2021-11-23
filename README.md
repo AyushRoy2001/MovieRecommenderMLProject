@@ -1,5 +1,5 @@
-# **IPL-Win-Predictor-ML-Project**
-IPL Win Predictor Model Using ML and its deployment
+# **Movie-Recommender-ML-Project**
+Movie Recommender Model Using ML and its deployment
 ## *1. Output*
 Video of webpage where the model is deployed
 
