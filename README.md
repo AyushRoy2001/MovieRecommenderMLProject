@@ -7,7 +7,7 @@ https://user-images.githubusercontent.com/94052139/142055101-50c942b2-38fc-4622-
 
 ## *2. Description*
   -> I created an ML model for suggesting 5 movies according to the input movie.<br/> 
-  -> Vectorization is the technique i used to convert the string of description, cast and other information to a vector in a multi dimensional plane.<br/>
+  -> Vectorization is the technique i used to convert the string of description, cast and other information to a vector<br> in a multi dimensional plane.<br/>
   -> Used Cosine Similarity to find out distance of the 5 closest vectors from the input movie vector in this project.<br/>
   -> The website where the model was implemented was made using Streamlit library of python.<br/>
   -> I replaced all special characters , commas, etc and convrted the text to lower case.<br/>
