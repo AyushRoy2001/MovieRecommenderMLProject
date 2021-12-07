@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/94052139/142055101-50c942b2-38fc-4622-
  ## *3. Dataset*
   -> Two datasets are used for the project(credits and movies).<br/>
   -> the datasets are processed and merged for the required dataset.<br/>
-  -> Datasets taken from Kaggle.<br/>
+  -> Datasets taken from ![Logo](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white).<br/>
  ## *4. Used*
  ![Logo](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
  ![Logo](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
