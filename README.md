@@ -1,11 +1,11 @@
 # **Movie-Recommender-ML-Project**
 Movie Recommender Model Using ML and its deployment
-## *1. Output*
+## *1. Output :zipper_mouth_face:*
 Video of webpage where the model is deployed
 
 https://user-images.githubusercontent.com/94052139/142055101-50c942b2-38fc-4622-9193-37b815b1e5a5.mp4
 
-## *2. Description*
+## *2. Description :thinking:*
   - I created an ML model for suggesting 5 movies according to the input movie.<br/> 
   - Vectorization is the technique i used to convert the string of description, cast and other information to a vector<br> in a multi dimensional plane.<br/>
   - Used Cosine Similarity to find out distance of the 5 closest vectors from the input movie vector in this project.<br/>
@@ -27,5 +27,5 @@ https://user-images.githubusercontent.com/94052139/142055101-50c942b2-38fc-4622-
  ![Logo](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
  ## *5. IDE*
  ![Logo](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
- ## *6. Contributers*
+ ## *6. Contributers :nerd_face:*
   - Ayush Roy<br/>
